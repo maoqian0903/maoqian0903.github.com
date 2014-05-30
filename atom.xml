@@ -4,7 +4,7 @@
   <title><![CDATA[maoqian0903]]></title>
   <link href="http://maoqian0903.github.io/atom.xml" rel="self"/>
   <link href="http://maoqian0903.github.io/"/>
-  <updated>2014-05-30T17:08:55+08:00</updated>
+  <updated>2014-05-30T17:10:23+08:00</updated>
   <id>http://maoqian0903.github.io/</id>
   <author>
     <name><![CDATA[郭云杰]]></name>
@@ -19,24 +19,6 @@
     <updated>2014-05-30T17:07:17+08:00</updated>
     <id>http://maoqian0903.github.io/blog/2014/05/30/my-first-github-page</id>
     <content type="html"><![CDATA[<p>  发布第二篇测试页,之后尝试Mou排版</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Wo De Di [?] Pian Bo Ke]]></title>
-    <link href="http://maoqian0903.github.io/blog/2014/05/30/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
-    <updated>2014-05-30T00:00:00+08:00</updated>
-    <id>http://maoqian0903.github.io/blog/2014/05/30/wo-de-di-[?]-pian-bo-ke</id>
-    <content type="html"><![CDATA[<hr />
-
-<p>layout: post
-title: &ldquo;我的第一篇博客&rdquo;
-date: 2014-05-30 14:28:53 +0800
-comments: true</p>
-
-<h2>categories: </h2>
-
-<p> octopress 博文系统测试,尝试生成第一篇博文-</p>
 ]]></content>
   </entry>
   
