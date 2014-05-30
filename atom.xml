@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[maoqian0903]]></title>
-  <link href="https://github.com/maoqian0903/maoqian0903.github.com/atom.xml" rel="self"/>
-  <link href="https://github.com/maoqian0903/maoqian0903.github.com/"/>
-  <updated>2014-05-30T16:21:17+08:00</updated>
-  <id>https://github.com/maoqian0903/maoqian0903.github.com/</id>
+  <link href="http://maoqian0903.github.io/atom.xml" rel="self"/>
+  <link href="http://maoqian0903.github.io/"/>
+  <updated>2014-05-30T16:34:12+08:00</updated>
+  <id>http://maoqian0903.github.io/</id>
   <author>
     <name><![CDATA[郭云杰]]></name>
     <email><![CDATA[guoyunjie2010@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wo De Di [?] Pian Bo Ke]]></title>
-    <link href="https://github.com/maoqian0903/maoqian0903.github.com/blog/2014/05/30/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
+    <link href="http://maoqian0903.github.io/blog/2014/05/30/wo-de-di-%5B%3F%5D-pian-bo-ke/"/>
     <updated>2014-05-30T00:00:00+08:00</updated>
-    <id>https://github.com/maoqian0903/maoqian0903.github.com/blog/2014/05/30/wo-de-di-[?]-pian-bo-ke</id>
+    <id>http://maoqian0903.github.io/blog/2014/05/30/wo-de-di-[?]-pian-bo-ke</id>
     <content type="html"><![CDATA[<hr />
 
 <p>layout: post

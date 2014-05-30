@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://github.com/maoqian0903/maoqian0903.github.com/sitemap.xml 
+Sitemap: http://maoqian0903.github.io/sitemap.xml 

@@ -1,21 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            https://github.com/maoqian0903/maoqian0903.github.com/blog/2014/05/30/wo-de-di-%5B%3F%5D-pian-bo-ke/
-        </loc>
+        <loc>http://maoqian0903.github.io/blog/2014/05/30/wo-de-di-%5B%3F%5D-pian-bo-ke/</loc>
         <lastmod>2014-05-30T14:31:38+08:00</lastmod>
     </url>
     <url>
-        <loc>https://github.com/maoqian0903/maoqian0903.github.com/blog/archives/</loc>
+        <loc>http://maoqian0903.github.io/blog/archives/</loc>
         <lastmod>2014-05-30T14:31:38+08:00</lastmod>
     </url>
     <url>
-        <loc>https://github.com/maoqian0903/maoqian0903.github.com/</loc>
+        <loc>http://maoqian0903.github.io/</loc>
         <lastmod>2014-05-30T14:31:38+08:00</lastmod>
     </url>
     <url>
-        <loc>https://github.com/maoqian0903/maoqian0903.github.com/robots.txt</loc>
+        <loc>http://maoqian0903.github.io/robots.txt</loc>
         <lastmod>2014-05-30T13:20:59+08:00</lastmod>
     </url>
 </urlset>
